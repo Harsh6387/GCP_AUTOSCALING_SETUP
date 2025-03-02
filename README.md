@@ -84,7 +84,7 @@ This setup includes:
 - **IAM policies** for restricted access
 - **Auto-scaling based on CPU load**
 
-*(Refer to the attached diagram)*
+
 
 ---
 
